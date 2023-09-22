@@ -22,11 +22,11 @@ function City() {
     function () {
       getCity(id);
     },
-    [id]
+    [id, getCity]
   );
 
+  // getQueries:
   // const [searchParams, setSearchParams] = useSearchParams();
-
   // const lat = searchParams.get("lat");
   // const lng = searchParams.get("lng");
 
