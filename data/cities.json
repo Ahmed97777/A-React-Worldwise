@@ -59,6 +59,18 @@
       },
       "emoji": "🇸🇪",
       "id": 98443199
+    },
+    {
+      "date": "2023-09-23T17:58:40.627Z",
+      "cityName": "Medina",
+      "country": "Saudi Arabia",
+      "notes": "The most favorite place to my heart 💖",
+      "position": {
+        "lat": "24.469486977888426",
+        "lng": "39.6106481552124"
+      },
+      "emoji": "🇸🇦",
+      "id": 98443200
     }
   ]
 }

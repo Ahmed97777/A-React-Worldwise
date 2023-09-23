@@ -4,7 +4,7 @@ Welcome to A-React-Worldwise GitHub repository! This project is a handy React ap
 
 ## About A-React-Worldwise
 
-A-React-Worldwise serves as your tracker for all your adventures, helping you review and commment on the most important adventures you did.
+A-React-Worldwise serves as your tracker for all your adventures, helping you review and comment on the most important adventures you did.
 
 ## Screenshots:
 
@@ -16,12 +16,11 @@ A-React-Worldwise serves as your tracker for all your adventures, helping you re
 ![6](https://github.com/Ahmed97777/A-React-Worldwise/assets/69377940/4ce1ff2c-2000-41e2-9b74-65949e3339ee)
 ![7](https://github.com/Ahmed97777/A-React-Worldwise/assets/69377940/d16ab132-8dda-4ca7-a9dc-d35b8812c1d1)
 
-
 **Note:** This project was created as part of my journey to deepen my understanding of React. While I already had a foundation in React, Jonas Schmedtmann's online course on Udemy (The Ultimate React Course 2023: React, Redux & More) played a pivotal role in expanding my knowledge and enhancing my skills.
 
 React + Vite :
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Currently, two official plugins are available:
+
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
