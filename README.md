@@ -14,6 +14,8 @@ A-React-Worldwise serves as your tracker for all your adventures, helping you re
 ![4](https://github.com/Ahmed97777/A-React-Worldwise/assets/69377940/9afb2bb2-8c0e-4e54-a400-e071664b71a0)
 ![5](https://github.com/Ahmed97777/A-React-Worldwise/assets/69377940/4f83573c-a7cc-46fa-ac3a-598c959ef4f4)
 ![6](https://github.com/Ahmed97777/A-React-Worldwise/assets/69377940/4ce1ff2c-2000-41e2-9b74-65949e3339ee)
+![7](https://github.com/Ahmed97777/A-React-Worldwise/assets/69377940/d16ab132-8dda-4ca7-a9dc-d35b8812c1d1)
+
 
 **Note:** This project was created as part of my journey to deepen my understanding of React. While I already had a foundation in React, Jonas Schmedtmann's online course on Udemy (The Ultimate React Course 2023: React, Redux & More) played a pivotal role in expanding my knowledge and enhancing my skills.
 
